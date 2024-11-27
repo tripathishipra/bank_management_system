@@ -115,3 +115,4 @@ if __name__ == "__main__":
     bank_system.menu()
 
     db_manager.close()
+
